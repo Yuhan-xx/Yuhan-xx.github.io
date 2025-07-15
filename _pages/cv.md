@@ -23,9 +23,9 @@ Publications
   
 Award
 =====
-<div style="font-size:70%">
-1. Outstanding Graduate of Beijing University of Technology, 2025  
-2. Outstanding Graduate Thesis of Beijing University of Technology, 2025  
-3. National Scholarship, 2024  
+<div style="font-size:80%">
+1. Outstanding Graduate of Beijing University of Technology, 2025<br>
+2. Outstanding Graduate Thesis of Beijing University of Technology, 2025<br>
+3. National Scholarship, 2024<br>
 4. Outstanding Graduate Thesis for Undergraduate Students of Huaqiao University, 2022
 </div>
