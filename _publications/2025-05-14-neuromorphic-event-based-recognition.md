@@ -7,5 +7,5 @@ excerpt: 'This paper proposes a motion-aware branch (MAB) to enhance event-based
 date: 2025-05-14
 venue: 'Neurocomputing'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925231225003509'
-citation: 'Liu, Yuhan, Deng, Yongjian, Xie, Bochen, Liu, Hai, Yang, Zhen, and Li, Youfu. (2025). &quot;Neuromorphic event-based recognition boosted by motion-aware learning.&quot; <i>Neurocomputing</i>. 630:129678.'
+citation: '<b>Liu, Yuhan</b>, Deng, Yongjian, Xie, Bochen, Liu, Hai, Yang, Zhen, and Li, Youfu. (2025). &quot;Neuromorphic event-based recognition boosted by motion-aware learning.&quot; <i>Neurocomputing</i>. 630:129678.'
 ---
