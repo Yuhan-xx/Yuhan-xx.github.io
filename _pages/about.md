@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I'm a first year PhD student from Xiamen University. My research interest includes computer vision, video frame interpolation, 3D vision and event camera.
+
+You can contact me with [Wechat](../images/wechat.jpg).
